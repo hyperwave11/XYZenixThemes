@@ -2943,18 +2943,16 @@ img[src="/assets/bb7f752540c7f4c7039c6dd6b5dd052e.svg"] {
 }
 
 @keyframes sropen {
-    0% {
-        margin-right: -400px
-    }
+  0% {
+    margin-right: -400px
+  }
 }
-
+.clipContainer-eeROt0 {
+    overflow: visible;
+}
 .container-2fRDfG {
-    margin-top: -35px;
-    border: solid 1px #000;
-    border-bottom: none;
-    border-radius: 3px 3px 0 0;
-    background: linear-gradient(#3d4046, #303135 50%, #2c2d2f 50%, #1c1e21);
-    box-shadow: inset 0 0 0 1px #fff1, 0 0 0 1px #fff1
+  margin-top: -32px;
+  margin-bottom: -2px;
 }
 
 .theme-light .container-2fRDfG {
