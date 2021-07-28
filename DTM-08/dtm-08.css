@@ -3686,7 +3686,7 @@ img[src="/assets/bb7f752540c7f4c7039c6dd6b5dd052e.svg"] {
     box-shadow: inset 0 0 0 1px #fff2, 0 0 0 1px #0006, 0 1px 1px #0008;
 }
 
-.titleContainer-2CXtJo, .stickyHeader-hH_ZLl, .header-2mZ9Ov {
+.titleContainer-2CXtJo, .stickyHeader-, .header-2mZ9Ov {
     background: none;
     backdrop-filter: blur(5px);
 }
@@ -3707,7 +3707,13 @@ img[src="/assets/bb7f752540c7f4c7039c6dd6b5dd052e.svg"] {
 .theme-light .stickyHeader-hH_ZLl .titleText-1ZIyhl, .theme-light .stickyHeader-hH_ZLl .themed-OHr7kt {
     text-shadow: 1px 1px 1px #fff, 1px 1px #fff, 1px 1px 3px #fff;
 }
-
+.dot-2s_oHI {
+    content: "";
+    background: #7289DA;
+    height: 12px;
+    width: 12px;
+    border-radius: 12px
+}
 .sidebar-CFHs9e {
     padding-left: 0;
     padding-right: 2px;
